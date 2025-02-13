@@ -2,12 +2,7 @@
 
 [![webpage](./images/2021_sakhir.png)](https://f1laps.herokuapp.com/)
 
-This website features two machine learning models that can predict lap times, positions, pit stop strategies as well as events like collisions for up to 20 drivers throughout a whole race.
-
-Other features:
-- 2 models to choose from. One trained with 20 years of data, the other trained with historical pit stop data starting from 2012 (This model is currently not available due to size limitations).
-- Interactive slider to look at lap times, statuses, etc of any lap during the race.
-- Colorful graph to easily grasp drivers' positions through out the race.  
+ 
 ![graph](./images/graph.png)
 - 20 years of historical data to predict what could have happened. Using the [Ergast Developer API](http://ergast.com/mrd/), you can choose from any race since 2001 and let the model envision an alternate ending.
 - Randomness factor to add unlimited possibilities.
